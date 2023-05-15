@@ -1,0 +1,9 @@
+python-dotenv
+SpeechRecognition
+openai
+playsound
+boto3
+Flask==2.0.1
+Werkzeug==2.0.1
+click==8.0.1
+
