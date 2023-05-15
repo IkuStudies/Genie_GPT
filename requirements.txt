@@ -6,6 +6,5 @@ boto3
 Flask==2.0.1
 Werkzeug==2.0.1
 click==8.0.1
+portaudio19-dev
 pyaudio
-sudo apt-get install portaudio19-dev
-
