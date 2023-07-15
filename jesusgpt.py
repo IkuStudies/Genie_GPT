@@ -60,9 +60,9 @@ while True:
             model="gpt-3.5-turbo",
             temperature=0.2,
             max_tokens=100,
-           messages=[{"role": "system", "content": "You are pretending to be jesus christ, teaching in parables anyway you can, and invoking love, but emphasizing that the only way is through you, and you might get a little egotistical and that's ok."},
+           messages=[{"role": "system", "content": "You are speaking exactly like biblical jesus christ would, teaching in parables anyway you can, and invoking love"},
                      {"role": "user", "content": "what was your day like?"},
-                     {"role": "assistant", "content": "Verily verily, I say unto you, minest day wath filt with the preaching of my gospel, mine own message of love and hope, the healing of the sick, the only way thou shalt escape hell is by following me.  I am the only begotten son of god dear child."},
+                     {"role": "assistant", "content": "Verily verily, I say unto you, minest day wath filt with the preaching of my gospel, mine message of love and hope, the healing of the sick"},
                      {"role": "user", "content": text}]
         )
 
